@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Social Media Integration</string>
+
+    <string name="twitter_consumer_key">0wn1lE8cDIA9AB8lsmbgsiaor</string>
+    <string name="twitter_consumer_secret_key">4k6nnFolNseLOJlooSiYkjdv75QnBQ7Tste1soXCDTmGlG3fXU</string>
+
+    <string name="facebook_app_id">368948480766666</string>
+    <string name="fb_login_protocol_scheme">fb368948480766666</string>
+
+
+</resources>
